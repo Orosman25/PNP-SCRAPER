@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Step 2: Run the Scraper
 Once you have the repository cloned and dependencies installed, you can run the scraper script with the following command:
 ```bash
-python scraper.py
+python PNP-SCRAPER.py
 ```
 Script Functionality
 Open each URL for scraping.
