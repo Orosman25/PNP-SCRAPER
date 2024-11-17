@@ -14,19 +14,14 @@ This document provides instructions for setting up and running the PNP Scraper, 
 ## 1. Install Python:
 Follow the official Python installation guide: https://www.python.org/downloads/
 
-## 2. Install Required Libraries:
-(Optional) Create a virtual environment to isolate project dependencies. Then, install libraries using pip:
-
-```bash
-pip install -r requirements.txt
-```
 Setup Instructions
 Step 1: Clone the Repository
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/pnp-scraper.git
+git clone https://github.com/Orosman25/pnp-scraper.git
 cd pnp-scraper
+pip install -r requirements.txt
 ```
 Step 2: Run the Scraper
 Once you have the repository cloned and dependencies installed, you can run the scraper script with the following command:
